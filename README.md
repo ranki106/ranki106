@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zach @ranki106
-- 👀 I’m interested in Japanese Language, Computer Science, Video games and lots lots more
-- 🌱 I’m currently learning how to use github and 3D graphics with MinGfx in C++
+- 👋 Hi, I’m Zach @ranki106 - I'm a full time engineer in Hyogo, Japan
+- 👀 I’m interested in Japanese Language, programming, cooking and playing video games
+- 🌱 I’m currently learning front end development with React
 - 📫 How to reach me: Check my profile for links to my linkedin / twitter
 
 <!---
